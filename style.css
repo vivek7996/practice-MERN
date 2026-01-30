@@ -1,0 +1,10 @@
+.my-box {
+    width: 300px;             /* Sets the width of the box */
+    height: 150px;            /* Sets the height of the box */
+    background-color: green; /* Adds a background color */
+    border: 2px solid #333;   /* Adds a solid border */
+    padding: 20px;            /* Adds space between content and border */
+    margin: 10px;             /* Adds space outside the border */
+    box-shadow: 0 4px 8px rgba(0,0,0,0.2); /* Optional: Adds a shadow */
+    border-radius: 10px;      /* Optional: Adds rounded corners */
+}
